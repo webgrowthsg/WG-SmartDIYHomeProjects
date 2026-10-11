@@ -25,7 +25,7 @@ export default function AboutPage() {
       <div className="mt-10 max-w-none">
         <div className="relative mt-6 aspect-[16/9] w-full overflow-hidden rounded-xl">
           <Image
-            src="https://images.pexels.com/photos/6474458/pexels-photo-6474458.jpeg?auto=compress&cs=tinysrgb&w=1600'"
+            src="https://images.pexels.com/photos/6474458/pexels-photo-6474458.jpeg?auto=compress&cs=tinysrgb&w=1600"
             alt="A backyard workshop and garden"
             fill
             sizes="(max-width: 768px) 100vw, 768px"
